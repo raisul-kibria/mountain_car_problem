@@ -1,2 +1,2 @@
-# mountain_car_problem
-Solving mountain car RL problem using TD methods
+# pendulum_learning_agent
+UIB Course - Advanced Smart Robot - Assignment 2
